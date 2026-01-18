@@ -1,4 +1,4 @@
-# ⚠️ LEGAL DISCLAIMER
+# ⚠️ LEGAL DISCLAIMER 
 
 Welcome to the NeoShade AI Project.
 
